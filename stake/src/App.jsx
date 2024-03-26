@@ -12,7 +12,7 @@ const PLAYERS = {
     class: "player-one"
   },
   [PLAYER_TWO]: {
-    name: "Prisca",
+    name: "Player 2",
     class: "player-two"
   }
 }
