@@ -97,6 +97,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
+        <title>VictoryStake</title>
         <div className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <h2>Victory Stake</h2>
